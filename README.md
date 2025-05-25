@@ -86,8 +86,8 @@ Me chamo Wendel Souza, sou natural de São Paulo, mas vivo em Minas Gerais. Semp
 
 <br/>
 <br/>
-### 📊 Estatísticas
 
+ ### 📊 Estatísticas 
 <p>
   <img 
     align="left" 
